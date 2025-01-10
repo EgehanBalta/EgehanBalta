@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Egehan, I'm 16 years old and I live in Türkiye İstanbul.
 My Hobby is model aviation.
-I dont know much about software development but I try to solve my problem as much as I can.
+I dont know much about software development and coding but I try to solve my problem as much as I can.
 
 - 🔭 I’m currently working on my rocket and plane projects.
 - 🌱 I’m currently learning Networking and AI.
